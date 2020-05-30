@@ -112,6 +112,19 @@ You can also use it from the Friend List which is easier since you don't have to
 4. Click on Play. The script should exit almost immediately. Images are saved to `Fate-Grand-Automata/support` folder.
 5. Rename the files to whatever you want and then use with Auto Support Selection.
 
+## How to use specific friend?
+Here are steps taken to crop pictures.
+1. Take a screenshot inside of a quest's support list. It Might work through friends list too.
+2. Rename the picture with a recognizable name, such as the name of your friend. For example, "friend.png".
+3. Go to [Online Image Editor](https://www.online-image-editor.com/) and import the picture.
+4. First, resize the picutre so that the height is 720 while keeping the aspect ratio.
+5. Afterwards, crop the picture to only keep the name. (The solomon star should not matter)
+6. Move the picture next to the folders "support" and "ce".
+7. Go to the automata app and into the support section. Select "Friend" in Selection mode. Then scroll down to the friend subsection.
+8. Insert the name of your file(s). It will look like this : `friend1.png, friend2.png` etc.
+There you go, that should be it!
+
+
 ## Like the project? Want to support me?
 Just pray that I can roll [Skadi](https://gamepress.gg/grandorder/servant/scathachskadi)!
 
